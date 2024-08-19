@@ -10,7 +10,7 @@
 
 
 .recipe-intro {
-    background-image: url(/images/recipe-intro-bg.png);
+    background-image: url("/images/recipe-intro-bg.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
